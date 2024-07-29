@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391076540165",
+    "project_id": "tasktrek-70287",
+    "storage_bucket": "tasktrek-70287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391076540165:android:ed7e93703df581e4c5516c",
+        "android_client_info": {
+          "package_name": "com.example.to_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkIR7gsCa-jK5dpN1vmmOf23LzLG1T7-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
